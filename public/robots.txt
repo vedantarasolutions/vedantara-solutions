@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.vedantara.com
+
+# Sitemaps
+Sitemap: https://www.vedantara.com/sitemap.xml

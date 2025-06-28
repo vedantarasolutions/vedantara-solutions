@@ -1,0 +1,46 @@
+{
+  "name": "vedantara-solutions",
+  "version": "1.0.0",
+  "description": "Official website for Vedantara Solutions - Premier IT Services",
+  "scripts": {
+    "dev": "next dev",
+    "postbuild": "next-sitemap",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "dependencies": {
+    "framer-motion": "^12.18.1",
+    "next": "^14.2.3",
+    "next-sitemap": "^4.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.2.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.3",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  },
+  "keywords": [
+    "vedantara",
+    "it solutions",
+    "web development",
+    "app development",
+    "network security",
+    "cloud solutions"
+  ],
+  "author": "Vedantara Solutions",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/vedantara-solutions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/vedantara-solutions/issues"
+  },
+  "homepage": "https://vedantarasolutions.com"
+}
